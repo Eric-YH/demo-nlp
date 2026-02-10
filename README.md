@@ -8,10 +8,11 @@ This repository showcases some Python Scripts
 
 [Sentiment Analysis](https://github.com/Eric-YH/Environmental-Scan)
 
+[TF-IDF](https://github.com/Eric-YH/test1-3-TF-IDF)
 
-# 📊 Power BI Dashboard Portfolio
----
+[Fine-tune](https://github.com/Eric-YH/test5-Fine-tuning-Pre-trained-Models)
 
+# ## PowerBI Portfolio
 ## 1️⃣ Budget Monitoring Dashboard  
 ### 📌 [View Demo](https://app.powerbi.com/view?r=eyJrIjoiYzliNmQ1MjYtMmRkZC00MTNlLWE4ODgtNDllYzliN2RmZTgwIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)  
 - Compare budget vs expenses by department; forecast next 3 months  
@@ -30,14 +31,6 @@ This repository showcases some Python Scripts
 - Identify trends, outliers, and performance gaps  
 
 ---
-
-## 🛠 Tools & Skills
-- Power BI (Data Modeling, DAX, Power Query)  
-- Data Visualization & Dashboard Design  
-- Data Cleaning & Transformation  
-- Interactive UI/UX
-
-
 ## PowerBI Portfolio
 ### 📌 [View Demo](https://app.powerbi.com/view?r=eyJrIjoiNzY3MWIwYzMtNjc2My00NGIzLWFhNzAtODEwYjFhY2Y5NGFlIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)
 
