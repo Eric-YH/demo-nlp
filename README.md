@@ -13,22 +13,22 @@ This repository showcases some Python Scripts
 [Fine-tune](https://github.com/Eric-YH/test5-Fine-tuning-Pre-trained-Models)
 
 # ## PowerBI Portfolio
-## 1️⃣ Budget Dashboard  
-### 📌 [Demo](https://app.powerbi.com/view?r=eyJrIjoiYzliNmQ1MjYtMmRkZC00MTNlLWE4ODgtNDllYzliN2RmZTgwIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)  
-- Budget vs expenses by department; 3-month forecast  
-- ETL processing and cleaning  
-- Interactive visualizations  
+### 1️⃣ Budget Monitoring Dashboard  
+#### 📌 [View Demo](https://app.powerbi.com/view?r=eyJrIjoiYzliNmQ1MjYtMmRkZC00MTNlLWE4ODgtNDllYzliN2RmZTgwIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)  
+- Compare budget vs expenses by department; forecast next 3 months  
+- ETL data processing and cleaning  
+- Interactive dashboards for dynamic visualization  
 
-## 2️⃣ Parking Dashboard  
-### 📌 [Demo](https://app.powerbi.com/view?r=eyJrIjoiNDFhMzUzYjEtMTM2NC00Zjk4LTkxZTAtZTU5ODgwYjZlOTY5IiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)  
-- Real-time occupancy; peak forecast (42.8M transactions)  
-- Daily/hourly trends  
-- Supports facility planning  
+### 2️⃣ Parking Lot Monitoring Dashboard  
+#### 📌 [View Demo](https://app.powerbi.com/view?r=eyJrIjoiNDFhMzUzYjEtMTM2NC00Zjk4LTkxZTAtZTU5ODgwYjZlOTY5IiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)  
+- Real-time occupancy tracking; forecast peaks (42.8M transactions)  
+- Daily/hourly trends visualization  
+- Supports facility planning decisions  
 
-## 3️⃣ Student Dashboard  
-### 📌 [Demo](https://app.powerbi.com/view?r=eyJrIjoiMzUwNTBkYTctYTMzYi00ZWU5LWFlYmYtMjQ2ZTA5NzlkYzcyIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)  
-- Seasonal performance; drill-through to individual students  
-- Identify trends, outliers, and gaps  
+### 3️⃣ Student Performance Dashboard  
+#### 📌 [View Demo](https://app.powerbi.com/view?r=eyJrIjoiMzUwNTBkYTctYTMzYi00ZWU5LWFlYmYtMjQ2ZTA5NzlkYzcyIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)  
+- Seasonal performance comparison; drill-through to individual students  
+- Identify trends, outliers, and performance gaps
 
 ---
 ## PowerBI Portfolio
